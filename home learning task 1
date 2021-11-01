@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+   h1 {text-align: center;}
+   nav{text-align: center;}
+   footer{text-align: center;}
+  
+</style>
+
+ 
+ <h1> Studet profile</h1>
+     
+   <center><img src="https://thumbs.dreamstime.com/z/young-man-book-his-hands-student-businessman-one-line-drawing-isolated-object-hand-white-background-195916477.jpg" alt="Trulli" width="500" height="333"></center>
+   <hr/>
+<naV>
+    <a herf="/html/">Home </a>|
+    <a herf="/html/">My Profile </a>|
+    <a herf="/html/">My Activity </a>|
+</naV>
+<hr/>
+<h1text-align: center;>
+<p1> perosnal inforamtion </p1>
+    <ol>
+        <li>Name : Abdu</li>
+        <li>Birth Date : 26/09/1997</li>
+
+    </ol>
+<p2> school information  </p2> 
+<ol>
+    <li>well known </li>
+    <li>high quality </li>
+
+</ol>
+<p3> Hobbis </p3> 
+
+<ol>
+    <li>playing football  </li>
+    <li>reading </li>
+
+</ol>
+
+<p4> My friends </p4>  
+
+<ol>
+
+
+<img src="https://thumbs.dreamstime.com/z/hand-drawn-group-people-friends-taking-selfie-photo-men-women-make-self-portrait-smart-phone-over-abstract-doodle-111837190.jpg" alt="Trulli" width="500" height="333">
+
+</ol> 
+
+<footer>
+    <p>Creat by Abdu new studets and reatke studetns<br>
+    <a href="Contact:Abdu@gmail.com">abdu@gmail.com</a></p>
+  </footer>
+</p>
+
+</body>
+</html>
+
 
